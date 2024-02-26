@@ -49,5 +49,9 @@ Processes and analyzes microproperties to optimize or understand system quality.
 **Contributing**
 Contributions are welcome! Please feel free to submit pull requests or open issues to discuss potential improvements or features.
 
+**Contacts**
+Details on how to contact fede2968@gmail.com for questions or future collaborations. This provides a direct line of communication for support, feedback, or discussions about potential partnerships.
+
 **License**
 This project is licensed under the MIT License - see the LICENSE file for details.
+
