@@ -40,6 +40,12 @@ Copy code
 python explore_PERFORMACE.py
 Processes and analyzes microproperties to optimize or understand system performance.
 
+**Exploring Quality**
+bash
+Copy code
+python explore_QUALITY.py
+Processes and analyzes microproperties to optimize or understand system quality.
+
 **Contributing**
 Contributions are welcome! Please feel free to submit pull requests or open issues to discuss potential improvements or features.
 
